@@ -1,4 +1,4 @@
-import Peices as p
+import Pieces as p
 
 class Player:
     def __init__(self, color):
@@ -6,4 +6,3 @@ class Player:
 
         pieces = p.MakePieces()
         
-        #create pieces
